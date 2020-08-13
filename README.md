@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, this is Yash Srivastava 👋</h1>
-<h3 align="center">A passionate in Machine Learning and FullStack Developer.</h3>
+<h3 align="center">An enthusiast towards Machine Learning with keen interest in FullStack Development.</h3>
 
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashSrivstav" alt="yashSrivstav" /> </p>
 
-#### 👩‍🎓 I am an Undergraduate, who loves to write CODE👾 and spend time on debugging it.<br>Besides programming, I enjoy creating creatives, and also I love to swim🏊‍♂️.
+#### 👩‍🎓 I am an Undergraduate, who loves to write CODE👾 and spends time on debugging it.<br>Besides programming, I enjoy creating creatives, and also I love to swim🏊‍♂️.
 
 <br />
 <img align="right" alt="GIF" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif?format=750w" width="400px" />
