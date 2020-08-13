@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, this is Yash Srivastava 👋</h1>
-<h3 align="center">A passionate FullStack Developer .</h3>
+<h3 align="center">A passionate FullStack Developer.</h3>
 
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashSrivstav" alt="yashSrivstav" /> </p>
 
-#### 👩‍🎓 I am an Undergraduate, who loves to write CODE👾 and spend time on debugging it. Besides programming, I enjoy creating creatives, and also I love to swim🏊‍♂️.
+#### 👩‍🎓 I am an Undergraduate, who loves to write CODE👾 and spend time on debugging it.<br>Besides programming, I enjoy creating creatives, and also I love to swim🏊‍♂️.
 
 <br />
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/p4NLw3I4U0idi/200.webp?cid=ecf05e47ut5pr45pj9m7x00dco0dgwmqq1so04zmjkqx6daz&rid=200.webp" width="400px" />
