@@ -46,7 +46,7 @@
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/yashSrivstav/" target="_blank">
-  <img align="left" alt="yashSrivstavLinkedin" | Linkedin" title="LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> 
+  <img align="left" alt="yashSrivstavLinkedin" | Linkedin" title="LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"> 
 </a>                                                                                                                                     
 <a href="https://www.hackerrank.com/_181500829" target="_blank">
   <img align="left" alt="yashSrivstavHackerRank" | HackerRank" title="HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"> 
