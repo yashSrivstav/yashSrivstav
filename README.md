@@ -5,24 +5,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashSrivstav" alt="yashSrivstav" /> </p>
 
-#### 👩‍🎓 I am an Undergraduate, always curious about Data, willing to learn more about it 👩‍💻. <br /> Besides programming, I enjoy travelling 🚀.
+#### 👩‍🎓 I am an Undergraduate, who loves to write CODE👾 and spend time on debugging it. Besides programming, I enjoy creating creatives, and also I love to swim🏊‍♂️.
 
 <br />
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/p4NLw3I4U0idi/200.webp?cid=ecf05e47ut5pr45pj9m7x00dco0dgwmqq1so04zmjkqx6daz&rid=200.webp" width="400px" />
 
-- 🌱 I’m currently learning **Machine Learning, Front-End Technologies, Backend Technologies**
+- 🌱 I’m currently learning **Machine Learning, Front-End Technologies, Backend Technologies & Competitive Programming💻**
 
-- 👯 I’m looking to collaborate on **ML and DL Projects**
-
-- 🤔 I’m looking for help with **learning anything new!**
+- 👯 I’m looking to collaborate on **ML and DL Projects & FullStack Projects🤖**
 
 - 🔭 I’m currently working on **improving my Skills**
 
 - 💬 Ask me about **anything you feel like!**
 
-- 📫 How to reach me **sameeksha.rathi_cs18@gla.ac.in**
+- 📫 How to reach me **yashsv51@gmail.com**
 
-- ⚡ Fun fact **Chai over Coffee**
+- ⚡ Fun fact **Hello World 🤣**
 
 <br>
 
@@ -46,7 +44,7 @@
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/yashSrivstav/" target="_blank">
-  <img align="left" alt="yashSrivstavLinkedin" | Linkedin" title="LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"> 
+  <img align="left" alt="yashSrivstavLinkedin" | Linkedin" title="LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" > 
 </a>                                                                                                                                     
 <a href="https://www.hackerrank.com/_181500829" target="_blank">
   <img align="left" alt="yashSrivstavHackerRank" | HackerRank" title="HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"> 
