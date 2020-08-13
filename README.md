@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, this is Yash Srivastava 👋</h1>
-<h3 align="center">A passionate FullStack Developer.</h3>
+<h3 align="center">A passionate in Machine Learning and FullStack Developer.</h3>
 
 <br>
 
